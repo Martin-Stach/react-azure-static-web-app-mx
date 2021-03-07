@@ -16,9 +16,9 @@ ReactDOM.render(
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
 
-var today = new Date();
-var birthDay = new Date(2020, 8, 7) // month is indexed with 0
-var calcBirthDay = new Date(2020, 8, 17)
+// var today = new Date();
+// var birthDay = new Date(2020, 8, 7) // month is indexed with 0
+// var calcBirthDay = new Date(2020, 8, 17)
 // var ageMonth = new Vue({
 //     el: '#age-month',
 //     data: {
